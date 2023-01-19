@@ -1,0 +1,11 @@
+.myicons:hover{
+    background-color: rgb(199, 156, 156);
+    padding:4px;
+}
+
+.truncate{
+    max-width: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
